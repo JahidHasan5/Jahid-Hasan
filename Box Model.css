@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+}
+nav{
+    background-color: #303030;
+}
+.card-title{
+    text-transform: uppercase;
+}
+#header-btn{
+    background-color: #e8631c;
+    border: 0px;
+}
+.hero-part{
+    background: url(musicology-03.png) no-repeat center;
+    background-size: cover;
+    color: #fff;
+    padding: 350px 0px 50px;
+}
+.hero-part h1{
+    font-size: 80px;
+    font-weight: 600;
+}
+.hero-part p{
+    font-size: 20px;
+    font-weight: 400;
+}
+.hero-part button{
+    background-color: #e8631c;
+    padding: 10px;
+}
+#dance{
+    background-color: #e8631c;
+    background-image: url(Musicology-07.png);
+}
+.card{
+    background-color: #303030;
+}
+#pricing{
+    background-color: #303030;
+    background-image: url(Musicology-07.png);
+}
+.card-1{
+    background-color: #e8631c;
+}
+#amaging{
+    background-color: #e8631c;
+}
+.amaging-writing{
+    padding-left: 30px;
+}
+.amaging-writing h2{
+    font-size: 60px;
+    margin-top: 400px;
+    padding: 20px 0px;
+}
+.amaging-writing button{
+    background-color: #303030;
+    padding: 10px;
+}
+#best{
+    background-color: #e8631c;
+}
+.best-writing{
+    padding-left: 30px;
+}
+.best-writing h2{
+    font-size: 60px;
+    margin-top: 400px;
+    padding: 20px 0px;
+}
+.best-writing button{
+    background-color: #303030;
+    padding: 10px;
+}
+#our{
+    background-color: #303030;
+}
+.our-1{
+    padding: 30px;
+}
+.our-writing h2{
+    font-size: 60px;
+    margin-top: 50px;
+    padding: 20px 0px;
+}
+.our-1 h5{
+    font-size: 60px;
+    font-weight: 600;
+}
+#simon{
+    background-image: url(musicology-10.png);
+}
+.writing-1{
+    padding: 350px 0px;
+}
+.writing-1 p{
+    font-size: 35px;
+}
+.writing-1 h2{
+    font-size: 60px;
+}
+#sub{
+    background-color: #e8631c;
+    background-image: url(Musicology-07.png);
+}
+.sub-writing{
+    margin-top: 80px;
+}
+.sub-writing h2{
+    font-size: 60px;
+    font-weight: 400;
+}
+.sub-writing p{
+    font-size: 30px;
+}
+#footer{
+    background-color: #303030;
+}
+.footer1{
+    padding-top: 40px;
+    margin-bottom: 20px;
+}
+.link a{
+    padding: 10px;
+}
+.footer-2 h5{
+    padding-top: 10px;
+}
